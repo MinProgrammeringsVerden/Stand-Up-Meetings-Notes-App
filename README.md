@@ -9,8 +9,8 @@ Notes can be added or deleted and uppdated
 The Notes list is authomaticly rendered and updated on the user profile.
 
 
-#Usage
+Usage
 npm install
 
-#Run the app
+Run the app
 npm start
