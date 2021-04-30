@@ -8,9 +8,8 @@ The user can choose his own name  of developers , task project from the list , a
 Notes can be added or deleted and uppdated
 The Notes list is authomaticly rendered and updated on the user profile.
 
-
-Usage
+# Usage
 npm install
 
-Run the app
+# Run the app
 npm start
