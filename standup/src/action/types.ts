@@ -1,8 +1,9 @@
-import {IFetchNotesAction} from '../action/notesAction'
+import {IFetchNotesAction , IDeleteNoteAction} from '../action/notesAction'
 
 
 export enum ActionTypes{
-    fetchNotes
+    fetchNotes,
+    deleteNote
 }
 
-export type Action = IFetchNotesAction
+export type Action = IFetchNotesAction | IDeleteNoteAction
